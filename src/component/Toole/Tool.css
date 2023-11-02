@@ -1,0 +1,16 @@
+.tool-display{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap:10px;
+}
+.input-home{
+    padding: 14px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+    border: none;
+}
+nav a{
+    margin-left: 20px;
+    color: lightblue;
+}

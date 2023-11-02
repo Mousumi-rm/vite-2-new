@@ -1,0 +1,54 @@
+.header-color{
+    color: aquamarine;
+    display: flex;
+    margin-left: 15px;
+    line-height: 0em;
+    
+}
+.welcome{
+    color: white;
+    font-weight: 700;
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 0%;
+   
+}
+.moon{
+    color: aquamarine;
+}
+.dev{
+    color: yellow;
+    margin-right: 10px;
+}
+.world{
+    color: red;
+}
+.name-your{
+    color: rgb(3, 198, 232);
+}
+.is-color{
+    color:blue;
+    margin-right: 10px;
+}
+.main-line{
+    margin-right:100px;
+    margin-bottom: -70px;
+    line-height: 0px;
+} 
+.line{
+
+}
+
+.line-bottom{
+    margin-left:50px ;
+    margin: 10px;
+    background: transparent;
+    border: 1px solid white;
+    padding: 15px 25px;
+    color: white;
+    font-weight: 700;
+}
+.grid-display{
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+}
